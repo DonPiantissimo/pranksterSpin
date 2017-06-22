@@ -1,0 +1,17 @@
+{
+  "name": "DnDPranksterSelector",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "donpiantissimo",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^2.0.3"
+  }
+}
