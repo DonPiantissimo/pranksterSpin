@@ -34,7 +34,7 @@ var mes="";
 
 sio.sockets.on('connection', function (client) {
     client.emit('onconnected', {});
-    console.log('connected');
+    console.log('connectedddd');
     
     	client.on('spin', function(msg){
             console.log('spin');
